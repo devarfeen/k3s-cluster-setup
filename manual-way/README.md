@@ -72,7 +72,7 @@ Once this has been run on the rest of the nodes then you should be able to check
 
 ### Setup kubectl on local machine
 
-Now that we’ve seen that we’re able to interact with our cluster with `kubectl`, we’d like to be able to do that from our actual devleopment machine. Luckily, it’s fairly easy to get this configured. Install `kubectl` via this guide [https://kubernetes.io/docs/tasks/tools/]
+Now that we’ve seen that we’re able to interact with our cluster with `kubectl`, we’d like to be able to do that from our actual devleopment machine. Luckily, it’s fairly easy to get this configured. Install `kubectl` via this guide https://kubernetes.io/docs/tasks/tools/
 
 Once kubectl is installed you’ll need to copy the contents from `/etc/rancher/k3s/k3s.yaml`, generally located on one of your nodes to `~/.kube/config` on your local machine.
 
@@ -243,7 +243,7 @@ Modify the values in [`/traefik/traefik-chart-values.yaml`](/traefik/traefik-cha
 ...
 
     spec: # externalTrafficPolicy: Cluster
-    loadBalancerIP: "192.168.88.161" # change this the IP you would like assigned via Metallb
+    loadBalancerIP: "192.168.1.161" # change this the IP you would like assigned via Metallb
 
 > Replace `--enterypoints` options with your Domain / Subdomain and adjust the `loadBalancerIP:` to the IP you’d like MetalLB to assign to Traefik (must be in the range you specified earlier)
 
