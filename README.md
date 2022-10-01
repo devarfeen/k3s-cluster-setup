@@ -12,7 +12,7 @@ Services [`/services/README.md`](/services/README.md) have a example `uptime-kum
 
 **FEEL FREE TO FORK OR DO PRs**
 
-I 💓 to colaborate with you. Tweet at me <a href="https://twitter.com/devarfeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devarfeen" height="16" width="16" /></a>
+I 💓 to collaborate with you. Tweet at me <a href="https://twitter.com/devarfeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devarfeen" height="16" width="16" /></a>
 
 ---
 Last Update:
