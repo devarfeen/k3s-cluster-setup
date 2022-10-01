@@ -1,4 +1,4 @@
-# Getting Started with k3s in Homelab/Cloud
+# Getting Started with k3s in Homelab / Cloud 
 
 [K3s](https://rancher.com/docs/k3s/latest/en/) is lightweight distribution of Kubernetes developed and maintained by [Rancher](https://rancher.com/).
 
